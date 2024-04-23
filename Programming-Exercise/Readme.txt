@@ -1,1 +1,2 @@
-﻿A txt file was created at 'D:\Endpoint.txt' to manage the stored endpoints, if this disk doesn't exists in you computer, you should change the path at FileManager.cs.
+﻿A txt file was created at 'D:\Endpoint.txt' to manage the stored endpoints, if this disk doesn't exists in you computer, you should change the path at FileManager.cs. Also
+a sample file was inserted in the project git.
