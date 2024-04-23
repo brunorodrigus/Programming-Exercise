@@ -1,0 +1,1 @@
+[{"SerialNumber":"2222","SwitchState":2,"MeterModel":17,"MeterNumber":2222,"FirmwareVersion":"2222"},{"SerialNumber":"1111","SwitchState":1,"MeterModel":16,"MeterNumber":1111,"FirmwareVersion":"1111"},{"SerialNumber":"3333","SwitchState":2,"MeterModel":18,"MeterNumber":3333,"FirmwareVersion":"3333"}]
