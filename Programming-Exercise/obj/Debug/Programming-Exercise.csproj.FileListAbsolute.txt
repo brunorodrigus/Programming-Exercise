@@ -1,0 +1,11 @@
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\bin\Debug\Programming-Exercise.exe.config
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\bin\Debug\Programming-Exercise.exe
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\bin\Debug\Programming-Exercise.pdb
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.csproj.AssemblyReference.cache
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.exe
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.pdb
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bruno.pinheiro\Desktop\Programming Exercise\Programming-Exercise\Programming-Exercise\obj\Debug\Programming-Exercise.csproj.CopyComplete
